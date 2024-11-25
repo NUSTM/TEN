@@ -1,4 +1,4 @@
-# Financial Distress Dataset Samples
+# Temporal Financial Distress Prediction Dataset
 
 ## Overview
 
