@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains sample data from a temporal dataset designed for the early prediction of financial distress among Chinese listed companies. The dataset captures dynamic financial indicators over time, enabling the modeling of temporal relationships and trends inherent in financial metrics. **The complete dataset will be made publicly available at a later stage.**
+This repository contains sample data from a temporal dataset designed for the early prediction of financial distress among Chinese listed companies. The dataset captures dynamic financial indicators over time, enabling the modeling of temporal relationships and trends inherent in financial metrics. The **complete** dataset will be made publicly available at a later stage.
 
 ## Data Files
 
